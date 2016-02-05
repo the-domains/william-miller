@@ -1,28 +1,40 @@
-name: William Miller
 favicon: null
-layout_spectrum: 0.9052817954216152
-typography_spectrum: 0.3162975136656314
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: William Miller
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9714646
+  brandStrength: 0.71323968982324
+  lightness: 0.8727093
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.71323968982324
-  lightness: 0.8727093616034836
-  saturation: 0.971464655129239
-  rhythmicContrast: 0.5639036004431546
-purpose: []
+  rhythmicContrast: 0.8888889
+typography_spectrum: 0.09139785
+layout_spectrum: 0.8781362
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
