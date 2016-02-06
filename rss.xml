@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[William Miller]]></title>
         <description><![CDATA[William Miller]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/william-miller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 14:55:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 15:00:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/william-miller/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SHOW REEL: https://www.youtube.com/watch?v=d5a4KKw2sAM</p>]]></description>
+            <link>https://thegrid.ai/william-miller/00a175df-6524-4fd2-b20d-517fe28afaab/index.html</link>
+            <guid isPermaLink="false">00a175df-6524-4fd2-b20d-517fe28afaab</guid>
+            <pubDate>Sat, 06 Feb 2016 14:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b491eca9-f624-4bae-917f-73fc07e52b84.jpg">]]></description>
-            <link>undefined9f70f634-c791-4109-9542-c1d36f4b0e52/index.html</link>
+            <link>https://thegrid.ai/william-miller/9f70f634-c791-4109-9542-c1d36f4b0e52/index.html</link>
             <guid isPermaLink="false">9f70f634-c791-4109-9542-c1d36f4b0e52</guid>
             <pubDate>Sat, 06 Feb 2016 14:55:33 GMT</pubDate>
         </item>
