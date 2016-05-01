@@ -1,5 +1,4 @@
-favicon: null
-name: William Miller
+layout_spectrum: 0.8781362
 opengraph:
   image: null
   type: null
@@ -10,31 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.9714646
-  brandStrength: 0.71323968982324
+  brandStrength: 0.4157706
   lightness: 0.8727093
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FBFDEF'
+    - '#242520'
+    - '#C5D5CB'
+    - '#7496A2'
+    - '#235878'
   rhythmicContrast: 0.8888889
 typography_spectrum: 0.09139785
-layout_spectrum: 0.8781362
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: William Miller
